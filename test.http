@@ -1,0 +1,15 @@
+GET http://localhost:3002/api/phones
+
+###
+
+GET http://localhost:3002/api/phones/1
+
+###
+
+GET http://localhost:3002/phones
+
+###
+
+GET http://localhost:3002/p
+
+###
